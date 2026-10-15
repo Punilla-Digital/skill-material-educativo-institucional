@@ -1,0 +1,7 @@
+interface:
+  display_name: Material Educativo Institucional
+  short_description: Material educativo visual con identidad institucional
+  default_prompt: Usá $material-educativo-institucional para preparar material educativo
+    visual con estas fuentes y la identidad de mi institución.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
